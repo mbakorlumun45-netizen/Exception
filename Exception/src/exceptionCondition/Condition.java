@@ -1,7 +1,9 @@
 package exceptionCondition;
 
+//No 1:
 //1: ArithmeticException;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Condition {
     public static int quotient(int numerator, int denominator){
@@ -25,4 +27,9 @@ public class Condition {
         }
         System.out.println("Program continue");
     }
-}
+    }
+
+//    2: InputMismatchException;
+
+
+
